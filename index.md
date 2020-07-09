@@ -1,9 +1,8 @@
 ---
 ---
 
-# Welcome to the internet home of G² Software
-
-Hi there 👋 
+Hi there! 👋 
+Welcome to the internet home of G² Software.
 
 There's more to come later.
 

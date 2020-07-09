@@ -1,3 +1,10 @@
-<h1>Welcome and hello</h1>
+---
+layout: default
+title: Home
+---
+
+# Welcome and hello
+
+Hi there 👋 
   
 [Twitter](https://twitter.com/gehgerritsen)

@@ -1,12 +1,13 @@
 ---
 ---
 
-Hi there! 👋 
+Hi there! 👋   
 Welcome to the internet home of G² Software.
 
-There's more to come later.
+We're a software company in The Netherlands, writing scalable and reliable software in Java and Go.  
+Next to that, we're specialized in troubleshooting and bug-hunting 🕵️. 
 
-For now, you can have a look at one of the following:
+You can reach me via hello [at] g2software [dot] nl, or through one of the following:
 
 - [LinkedIn](linkedin.com/in/geertgerritsen/)
 - [GitHub](github.com/ggerritsen)

@@ -40,8 +40,8 @@
         </section>
 
         <footer>
-	  <span>KvK number: {{ site.kvk_number | "-" }}</span>
-          <span>BTW (VAT) number: {{ site.btw_number | "-" }}</span>
+	  <span>KvK number: {{ site.kvk_number | "-" }}</span><br>
+          <span>BTW (VAT) number: {{ site.btw_number | "-" }}</span><br>
         {% if site.github.is_project_page %}
           {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
         {% endif %}

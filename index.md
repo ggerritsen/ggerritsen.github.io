@@ -13,3 +13,7 @@ You can reach us via hello [at] g2software [dot] nl, or through one of the follo
 - [GitHub](https://github.com/ggerritsen)
 - [Medium](https://medium.com/@ggerritsen)
 - [Twitter](https://twitter.com/gehgerritsen)
+- [DEV](https://dev.to/ggerritsen)
+        
+
+

@@ -32,7 +32,9 @@ A few examples:
 * send attachments to an email address which automatically stores them on a shared drive
 
 So let's work on one such an idea for 10 minutes a day.  
-Exceptions: Wednesdays (daddy day) and weekends. 
+Exceptions: Wednesdays (daddy day) and weekends.  
+Counting today (Monday), this means I'll have done this 100 times after 25 weeks, which means it will be Friday Sep 8th.  
+Taking holidays and such into account it will probably be 2-3 weeks later. 
 
 
 
